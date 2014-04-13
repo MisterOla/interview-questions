@@ -21,9 +21,9 @@ From interviews that I've been through
 
 ### Ugh
 
-1. What is the difference between GET and POST? (dig deep)
-2. What does the unix command uptime do?
-3. Write a regex to match phone numbers in the following formats: (301)-000-0000 and 301.000.000 and 3010000000
+1. What is the difference between GET and POST?
+2. What does the unix command `uptime` do?
+3. Write a regex to match phone numbers in the following formats: `(301)-000-0000`, `301.000.000, and `3010000000`
 4. Say you have a text file that looks like:
   
   ```
@@ -46,7 +46,7 @@ From interviews that I've been through
   14-40-19 20000
   ```
 
-5. Design an inventory management system. You should be able to add, find and delete an item.
+5. Design an ERD for an inventory management system. Then design your model. You should be able to add, find and delete an item.
 6. 2 hours of TDDing a task-list
 7. 3 hour challenge of implementing a blog that supported commenting
 8. Describe hoisting in JavaScript.
@@ -56,4 +56,4 @@ From interviews that I've been through
 12. What could be slow about writing this `css#home a`
 13. What is the difference between a class and a prototype in JavaScript?
 14. What is a technical challenge you have recently faced? What did you do to plan your solution?
-15. When would you git rebase instead of git merge
+15. When would you `git rebase` instead of `git merge`?
