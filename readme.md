@@ -23,7 +23,7 @@ From interviews that I've been through
 
 1. What is the difference between GET and POST?
 2. What does the unix command `uptime` do?
-3. Write a regex to match phone numbers in the following formats: `(301)-000-0000`, `301.000.000, and `3010000000`
+3. Write a regex to match phone numbers in the following formats: `(301)-000-0000`, `301.000.000`, and `3010000000`
 4. Say you have a text file that looks like:
   
   ```
